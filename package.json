@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/jcbhass/New-Project-3-1-2020/issues"
   },
-  "homepage": "https://github.com/jcbhass/New-Project-3-1-2020#readme"
+  "homepage": "https://github.com/jcbhass/New-Project-3-1-2020#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
 }
